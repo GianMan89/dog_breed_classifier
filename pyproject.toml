@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "dog-breed-classifier"
+version = "0.1.0"
+description = ""
+authors = ["Gianluca Manca <gianluca.manca89@gmail.com>"]
+readme = "README.md"
+packages = [{include = "dog_breed_classifier"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.5.0"
+numpy = "^1.23.3"
+matplotlib = "^3.6.0"
+torch = "^1.12.1"
+black = "^22.8.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
