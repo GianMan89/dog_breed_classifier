@@ -7,12 +7,21 @@ readme = "README.md"
 packages = [{include = "dog_breed_classifier"}]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = ">=3.8,<3.11"
 pandas = "^1.5.0"
 numpy = "^1.23.3"
 matplotlib = "^3.6.0"
 torch = "^1.12.1"
 black = "^22.8.0"
+opencv-python = "^4.6.0.66"
+h5py = "^3.7.0"
+scipy = "^1.9.1"
+tqdm = "^4.64.1"
+keras = "^2.10.0"
+scikit-learn = "^1.1.2"
+Pillow = "^9.2.0"
+tensorflow = "^2.10.0"
+ipykernel = "^6.16.0"
 
 
 [build-system]
