@@ -1,6 +1,9 @@
 # bottleneck_features
 bottleneck_features/
 
+# image data
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
