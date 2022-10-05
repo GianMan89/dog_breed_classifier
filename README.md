@@ -1,7 +1,7 @@
 # dog_breed_classifier
 Udacity Data Scientist Nanodegree: Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
 
-# Disaster Response Pipeline Project
+# Dog Breed Classifier
 
 ## Table of Contents
 1. [Motivation](#motivation)
