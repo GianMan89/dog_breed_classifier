@@ -4,9 +4,6 @@ bottleneck_features/
 # image data
 data/
 
-# haarcascades
-haarcascades/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
